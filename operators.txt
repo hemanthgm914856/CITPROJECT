@@ -1,0 +1,10 @@
+//Arithmetic Opertors
+//Logical operator - &&, ||, 
+//Assignment operator
+//Bitwise operator
+//Relational
+//Unary
+//Ternary
+//Shift
+//Instanceof
+//Type Casting
