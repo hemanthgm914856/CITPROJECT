@@ -1,0 +1,5 @@
+It includes 3 parts:
+1.Selection(Decision making) control stucture
+2.Iteration(Looping) control stucture
+3.Jump(Branching) control stucture
+ Selection- if,if-else,nested if, and if else,switch
