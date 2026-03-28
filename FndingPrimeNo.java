@@ -1,6 +1,9 @@
+import java.util.Scanner; 
 public class FndingPrimeNo {
     public static void main(String[] args) {
-        int num = 28; 
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a number to check if it is prime: ");
+        int num = sc.nextInt();
         boolean isPrime = true; 
         
         if (num < 2) {
